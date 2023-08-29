@@ -54,3 +54,5 @@ __pycache__
 
 server/instance
 *.db
+
+.vscode
